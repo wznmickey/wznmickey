@@ -3,7 +3,7 @@
 [![wznmickey's GitHub stats](https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-<summary>Selected maintained projects</summary>
+<summary>Selected maintaing projects</summary>
 
 [![canvas_syncer](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/canvas_syncer))
 [![JI_Lab_Report_typst_template](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/JI_Lab_Report_typst_template))
