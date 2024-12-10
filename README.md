@@ -1,6 +1,6 @@
 ## Here is wznmickey
 
-My blog [静静的小窝](wznmickey.com).
+My blog [静静的小窝](https://wznmickey.com).
 
 [![wznmickey's GitHub stats](https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
