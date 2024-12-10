@@ -17,6 +17,9 @@
 
 [![typst](https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/typst/typst))
 
+[![Joint-Teapot](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/typst/typst](https://github.com/BoYanZh/Joint-Teapot)))
+
+
 </details>
 
 
