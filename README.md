@@ -1,5 +1,6 @@
 ## Here is wznmickey
 
+[![wznmickey's GitHub stats](https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>Selected maintained projects</summary>
@@ -27,8 +28,15 @@
 
 </details>
 
-[![wznmickey's GitHub stats](https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>Languages and WakaTime</summary>
 
 [![Languages used (exclude html,css and js)](https://github-readme-stats-wznmickey.vercel.app/api/top-langs/?username=wznmickey&card_width=500&count_private=true&hide=css,html,javascript&langs_count=20&custom_title=Languages%20used%20%28exclude%20html%2Ccss%20and%20js%29)](https://github.com/anuraghazra/github-readme-stats)
 
+WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so the time listed for C and C++ is shorter than real time.
+
 [![wznmickey's WakaTime stats](https://github-readme-stats-wznmickey.vercel.app/api/wakatime?username=wznmickey&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
