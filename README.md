@@ -39,4 +39,6 @@ WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so t
 
 </details>
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
