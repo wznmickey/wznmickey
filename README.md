@@ -11,7 +11,7 @@ My blog [静静的小窝](https://wznmickey.com).
 [![elm-for](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/elm-for))
 [![GetCanvasCourseCode](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/GetCanvasCourseCode))
 
-### Selected cContributed Projects
+### Selected Contributed Projects
   
 [![Canvas-Syncer](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BoYanZh/Canvas-Syncer))
 [![typst](https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/typst/typst))
