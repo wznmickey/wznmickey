@@ -11,14 +11,14 @@ My blog [静静的小窝](https://wznmickey.com).
 [![elm-for](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/elm-for))
 [![GetCanvasCourseCode](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/GetCanvasCourseCode))
 
-### Selected contributed Projects
+### Selected cContributed Projects
   
 [![Canvas-Syncer](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BoYanZh/Canvas-Syncer))
 [![typst](https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/typst/typst))
 [![Joint-Teapot](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/typst/typst](https://github.com/BoYanZh/Joint-Teapot)))
 [![touying](https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/typst/typst](https://github.com/touying-typ/touying)))
 
-### Workshop material
+### Workshop Material
   
 [![linuxParty](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/linuxParty))
 [![typst_workshop](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/typst_workshop))
