@@ -26,6 +26,7 @@
 <summary>Workshop material</summary>
   
 [![linuxParty](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/linuxParty))
+[![typst_workshop](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/typst_workshop))
 
 
 </details>
