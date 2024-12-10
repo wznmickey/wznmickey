@@ -2,7 +2,7 @@
 
 
 <details>
-<summary>Some projects</summary>
+<summary>Selected maintained projects</summary>
 
 [![canvas_syncer](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/canvas_syncer))
 [![JI_Lab_Report_typst_template](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/JI_Lab_Report_typst_template))
@@ -10,7 +10,7 @@
 
 </details>
 <details>
-<summary>Some contributed Projects</summary>
+<summary>Selected contributed Projects</summary>
 
 
 [![Canvas-Syncer](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BoYanZh/Canvas-Syncer))
