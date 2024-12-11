@@ -23,11 +23,19 @@ My blog [静静的小窝](https://wznmickey.com).
 
 
 ### Selected Contributed Projects
-  
-[![Canvas-Syncer](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/BoYanZh/Canvas-Syncer))
-[![typst](https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/typst/typst))
-[![Joint-Teapot](https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/typst/typst](https://github.com/BoYanZh/Joint-Teapot)))
-[![touying](https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/typst/typst](https://github.com/touying-typ/touying)))
+
+<a href="https://github.com/BoYanZh/Canvas-Syncer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" />
+</a>
+<a href="https://github.com/typst/typst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst" />
+</a>
+<a href="https://github.com/BoYanZh/Joint-Teapot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" />
+</a>
+<a href="https://github.com/touying-typ/touying">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" />
+</a>
 
 ### Workshop Material
   
