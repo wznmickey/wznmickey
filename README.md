@@ -2,14 +2,25 @@
 
 My blog [静静的小窝](https://wznmickey.com).
 
-[![wznmickey's GitHub stats](https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
+</a>
 
 ### Selected Maintaining Projects
 
-[![canvas_syncer](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/canvas_syncer))
-[![JI_Lab_Report_typst_template](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/JI_Lab_Report_typst_template))
-[![elm-for](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/elm-for))
-[![GetCanvasCourseCode](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/GetCanvasCourseCode))
+<a href="https://github.com/wznmickey/canvas_syncer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" />
+</a>
+<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" />
+</a>
+<a href="https://github.com/wznmickey/elm-for">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for" />
+</a>
+<a href="https://github.com/wznmickey/GetCanvasCourseCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode" />
+</a>
+
 
 ### Selected Contributed Projects
   
