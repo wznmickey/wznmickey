@@ -7,46 +7,25 @@ My blog [静静的小窝](https://wznmickey.com).
 </a>
 
 ### Selected Maintaining Projects
-
-<a href="https://github.com/wznmickey/canvas_syncer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" />
-</a>
-<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" />
-</a>
-<a href="https://github.com/wznmickey/elm-for">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for" />
-</a>
-<a href="https://github.com/wznmickey/GetCanvasCourseCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode" />
-</a>
+|<a href="https://github.com/wznmickey/canvas_syncer">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" /></a>|<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" /></a>|
+| -- | -- |
+|<a href="https://github.com/wznmickey/elm-for"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for" /></a>|<a href="https://github.com/wznmickey/GetCanvasCourseCode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode" /></a>|
 
 
 ### Selected Contributed Projects
-
-<a href="https://github.com/BoYanZh/Canvas-Syncer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" />
-</a>
-<a href="https://github.com/typst/typst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst" />
-</a>
-<a href="https://github.com/BoYanZh/Joint-Teapot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" />
-</a>
-<a href="https://github.com/touying-typ/touying">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" />
-</a>
+|<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
+| -- | -- |
+|<a href="https://github.com/BoYanZh/Joint-Teapot">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" /></a>|<a href="https://github.com/touying-typ/touying"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" /></a>|
 
 ### Workshop Material
-  
-[![linuxParty](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/linuxParty))
-[![typst_workshop](https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wznmickey/typst_workshop))
+|<a href="https://github.com/wznmickey/linuxParty"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty" /></a>|<a href="https://github.com/wznmickey/typst_workshop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop" /></a>|
+| -- | -- |
 
 
 <details>
 <summary>Languages and WakaTime</summary>
 
-[![Languages used (exclude html,css and js)](https://github-readme-stats-wznmickey.vercel.app/api/top-langs/?username=wznmickey&card_width=500&count_private=true&langs_count=20&)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages used](https://github-readme-stats-wznmickey.vercel.app/api/top-langs/?username=wznmickey&card_width=500&count_private=true&langs_count=20&)](https://github.com/anuraghazra/github-readme-stats)
 
 WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so the time listed for C and C++ is shorter than real time.
 
