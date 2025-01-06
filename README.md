@@ -21,7 +21,6 @@ My blog [静静的小窝](https://wznmickey.com).
 |<a href="https://github.com/wznmickey/linuxParty"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty" /></a>|<a href="https://github.com/wznmickey/typst_workshop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop" /></a>|
 | -- | -- |
 
-
 <details>
 <summary>Languages and WakaTime</summary>
 
