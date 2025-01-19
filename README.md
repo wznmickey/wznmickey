@@ -34,9 +34,9 @@ WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so t
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [五年了啊 | Five years](https://wznmickey.com/2025/Five_years/)
 - [一个奇怪的估算 | A strange estimation](https://wznmickey.com/2025/A-strange-estimation/)
 - [虚拟直播之路2 | Living as a V 2](https://wznmickey.com/2024/Living_as_a_V_2/)
 - [虚拟直播之路 | Living as a V](https://wznmickey.com/2024/Living_as_a_V/)
 - [AI 写代码？| AI coding?](https://wznmickey.com/2023/AIcoding/)
-- [X静评1.1：谷歌，快成了？| XComment1.1 Is Google&#39;s Success Coming?](https://wznmickey.com/2023/XComment1-1/)
 <!-- BLOG-POST-LIST:END -->
