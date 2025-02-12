@@ -28,7 +28,7 @@ My blog [静静的小窝](https://wznmickey.com).
 
 WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so the time listed for C and C++ is shorter than real time.
 
-[![wznmickey's WakaTime stats](https://github-readme-stats-wznmickey.vercel.app/api/wakatime?username=wznmickey&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+![wznmickey's WakaTime stats](https://wakatime.com/share/@wznmickey/b0bd7c9d-fdc5-456c-a45d-8617c2ba1f7f.svg)
 
 </details>
 
