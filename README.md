@@ -18,7 +18,7 @@ My blog [静静的小窝](https://wznmickey.com).
 |<a href="https://github.com/BoYanZh/Joint-Teapot">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" /></a>|<a href="https://github.com/touying-typ/touying"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" /></a>|
 
 ### Workshop Material
-|<a href="https://github.com/Tech-JI/Linux-Install-Party"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=linuxParty" /></a>|<a href="https://github.com/wznmickey/typst_workshop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop" /></a>|
+|<a href="https://github.com/Tech-JI/Linux-Install-Party"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-JI&repo=Linux-Install-Party" /></a>|<a href="https://github.com/wznmickey/typst_workshop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop" /></a>|
 | -- | -- |
 
 <details>
