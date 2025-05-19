@@ -6,16 +6,18 @@ My blog [静静的小窝](https://wznmickey.com).
   <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
 </a>
 
+### Selected Contributed Projects
+|<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
+| -- | -- |
+|<a href="https://github.com/BoYanZh/Joint-Teapot">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" /></a>|<a href="https://github.com/touying-typ/touying"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" /></a>|
+
+
 ### Selected Maintaining Projects
 |<a href="https://github.com/wznmickey/canvas_syncer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" /></a>|<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" /></a>|
 | -- | -- |
 |<a href="https://github.com/wznmickey/elm-for"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=elm-for" /></a>|<a href="https://github.com/wznmickey/GetCanvasCourseCode"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode" /></a>|
 
 
-### Selected Contributed Projects
-|<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
-| -- | -- |
-|<a href="https://github.com/BoYanZh/Joint-Teapot">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" /></a>|<a href="https://github.com/touying-typ/touying"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=touying-typ&repo=touying" /></a>|
 
 ### Workshop Material
 |<a href="https://github.com/Tech-JI/Linux-Install-Party"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-JI&repo=Linux-Install-Party" /></a>|<a href="https://github.com/wznmickey/typst_workshop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wznmickey&repo=typst_workshop" /></a>|
