@@ -38,9 +38,9 @@ WakaTime is collected since 2022/08/31. I worked mainly on C and C++ before so t
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [在VPS服务器上面安装OpenClaw并使用OpenRouter的免费API的一些“坑” | Some &quot;pits&quot; about installing OpenClaw and using OpenRouter&#39;s free API on a VPS server](https://wznmickey.com/2026/OpenClawWithOpenRouter/)
 - [五年了啊 | Five years](https://wznmickey.com/2025/Five_years/)
 - [一个奇怪的估算 | A strange estimation](https://wznmickey.com/2025/A-strange-estimation/)
 - [虚拟直播之路2 | Living as a V 2](https://wznmickey.com/2024/Living_as_a_V_2/)
 - [虚拟直播之路 | Living as a V](https://wznmickey.com/2024/Living_as_a_V/)
-- [AI 写代码？| AI coding?](https://wznmickey.com/2023/AIcoding/)
 <!-- BLOG-POST-LIST:END -->
