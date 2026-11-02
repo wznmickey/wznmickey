@@ -8,6 +8,10 @@ CV [Web version](https://wznmickey.com/CV) [PDF version](https://wznmickey.com/C
   <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
 </a>
 
+Interest area as a researcher: Design Automation with AI/LLM (mainly Analog and PCB)
+
+Interest area as a student   : programming language and coding, Linux, any opensource works; boardgame, minecraft, railway system
+
 ### Opensource Research Projects [@xz-group](https://github.com/orgs/xz-group/repositories) 
 |<a href="https://github.com/xz-group/RoCktNet"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=RoCktNet" /></a>|<a href="https://github.com/xz-group/AnalogSAGE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=AnalogSAGE" /></a>|
 | -- | -- |
