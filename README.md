@@ -8,12 +8,14 @@ CV [Web version](https://wznmickey.com/CV) [PDF version](https://wznmickey.com/C
   <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
 </a>
 
-### Opensource Research Project @xz-group
+### Opensource Research Projects [@xz-group](https://github.com/orgs/xz-group/repositories) 
 |<a href="https://github.com/xz-group/RoCktNet"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=RoCktNet" /></a>|<a href="https://github.com/xz-group/AnalogSAGE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=AnalogSAGE" /></a>|
+| -- | -- |
+|<a href="https://github.com/wznmickey/RoCktNet"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=RoCktNet" /></a>|<a href="https://github.com/wznmickey/AnalogSAGE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=AnalogSAGE" /></a>|
 
 ### Selected Contributed Projects
 |<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
-
+| -- | -- |
 
 ### Selected Maintaining Projects
 |<a href="https://github.com/wznmickey/canvas_syncer"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" /></a>|<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" /></a>|
