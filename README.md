@@ -22,8 +22,8 @@ Interest area as a student   : programming language and coding, Linux, any opens
 |<a href="https://github.com/wznmickey/RoCktNet"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=RoCktNet" /></a>|<a href="https://github.com/wznmickey/AnalogSAGE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=AnalogSAGE" /></a>|
 
 ### Selected Contributed Projects
-|<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
-| -- | -- |
+|<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=typst&repo=typst" /></a>|<a href="https://github.com/walinejs/waline"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=walinejs&repo=waline"/></a>|
+| -- | -- | -- |
 
 ### Selected Maintaining Projects
 |<a href="https://github.com/wznmickey/canvas_syncer"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" /></a>|<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" /></a>|
