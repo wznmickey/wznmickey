@@ -8,6 +8,10 @@ CV [Web version](https://wznmickey.com/CV) [PDF version](https://wznmickey.com/C
   <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
 </a>
 
+2020- Shanghai Jiao Tong University [@SJTU-RoboMaster-Team](https://github.com/SJTU-RoboMaster-Team) [@sjtug](https://github.com/sjtug) 
+
+2024- Northeastern University, Boston Campus [@xz-group](https://github.com/orgs/xz-group) ECE (Electrical and Computer Engineering)
+
 Interest area as a researcher: Design Automation with AI/LLM (mainly Analog and PCB)
 
 Interest area as a student   : programming language and coding, Linux, any opensource works; boardgame, minecraft, railway system
