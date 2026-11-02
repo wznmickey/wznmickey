@@ -8,10 +8,11 @@ CV [Web version](https://wznmickey.com/CV) [PDF version](https://wznmickey.com/C
   <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api?username=wznmickey&count_private=true&include_all_commits=true" />
 </a>
 
+### Opensource Research Project @xz-group
+|<a href="https://github.com/xz-group/RoCktNet"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=RoCktNet" /></a>|<a href="https://github.com/xz-group/AnalogSAGE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=xz-group&repo=AnalogSAGE" /></a>|
+
 ### Selected Contributed Projects
 |<a href="https://github.com/BoYanZh/Canvas-Syncer"> <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=BoYanZh&repo=Canvas-Syncer" /></a>|<a href="https://github.com/typst/typst"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=typst&repo=typst" /></a>|
-| -- | -- |
-|<a href="https://github.com/BoYanZh/Joint-Teapot">  <img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=BoYanZh&repo=Joint-Teapot" /></a>|<a href="https://github.com/touying-typ/touying"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=touying-typ&repo=touying" /></a>|
 
 
 ### Selected Maintaining Projects
