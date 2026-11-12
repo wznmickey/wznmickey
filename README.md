@@ -29,7 +29,7 @@ Interest area as a student   : programming language and coding, Linux, any opens
 |<a href="https://github.com/wznmickey/canvas_syncer"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=canvas_syncer" /></a>|<a href="https://github.com/wznmickey/JI_Lab_Report_typst_template"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=JI_Lab_Report_typst_template" /></a>|
 | -- | -- |
 |<a href="https://github.com/wznmickey/elm-for"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=elm-for" /></a>|<a href="https://github.com/wznmickey/GetCanvasCourseCode"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=GetCanvasCourseCode" /></a>|
-|<a href="https://github.com/GOK-656/MagicPrompt"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=GOK-656&repo=MagicPrompt" /></a>|<a href="https://github.com/wznmickey/VE473_project"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=VE473_project" /></a>|
+|<a href="https://github.com/GOK-656/MagicPrompt"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=GOK-656&repo=MagicPrompt" /></a>|<a href="https://github.com/wznmickey/SAVE"><img align="center" src="https://github-readme-stats-wznmickey.vercel.app/api/pin/?username=wznmickey&repo=SAVE" /></a>|
 
 
 
